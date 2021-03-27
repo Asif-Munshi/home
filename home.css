@@ -1,0 +1,40 @@
+/*css-tricks.com*/
+/*paletton.com*/
+
+ul{
+    text-align: center;
+}
+.link{
+    cursor: pointer;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+h2, p{
+    color: rgba(255, 0, 0, 0.644);
+    text-align: center;
+    border: 3px solid rgba(255, 0, 0, 0.644);
+    cursor: pointer;
+}
+.active{
+    font-size: 65px;
+    color: rgb(0, 183, 255);
+    border: 2px solid rgb(0, 183, 255);
+    cursor: text;
+}
+.active2{
+    font-size: 4em;
+    color: rgb(0, 128, 0);
+    border: 2px solid rgb(0, 128, 0);
+    cursor: text;
+}
+.active3{
+    font-size: 25px;
+    color: rgba(255, 0, 0, 0.644);
+    border: 2px solid rgba(255, 0, 0, 0.644);
+    cursor: text;
+}
+span{
+    font-size: 4rem;
+}
